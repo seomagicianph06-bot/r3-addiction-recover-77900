@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://seomagicianph06-bot.github.io/r3-addiction-recover-77900/sitemap.xml
